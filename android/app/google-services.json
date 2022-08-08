@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595385802425",
+    "project_id": "tourmat-ab840",
+    "storage_bucket": "tourmat-ab840.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595385802425:android:f6b3b5b8de69e041ea0568",
+        "android_client_info": {
+          "package_name": "com.example.flutter_tour_mate_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595385802425-g9c6bbil4o25r98cckmudee7k23ogo7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrNo7YGOoeG4k1Sc_w-BAXCSx501PiPgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595385802425-g9c6bbil4o25r98cckmudee7k23ogo7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
